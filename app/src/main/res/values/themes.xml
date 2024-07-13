@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ViaCep" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="strokeColor">@color/teal_200</item>
+
+    </style>
+
+    <style name="Theme.ViaCep" parent="Base.Theme.ViaCep" />
+</resources>
